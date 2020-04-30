@@ -1,0 +1,1001 @@
+{
+"Id": "1",
+"Namebrand": "Tylenol with Codeine",
+"Namegeneric": "Acetaminophen and codeine",
+"deaclass": "Class 3",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Analgesic",
+"Strength": "15mg, 30 mg, 60 mg",
+},
+
+{
+"Id": "2",
+"Namebrand": "Proair Proventil",
+"Namegeneric": "Albuterol Aerosol",
+"deaclass": "Class 6",
+"Medicationuse": "Asthma",
+"Medicationclass": "Beta2-agonist",
+"Strength": "5mg, 10mg, 35mg, 40mg, 70mg",
+},
+
+
+{
+"Id": "3",
+"Namebrand": "Accuneb: Proventil Nebulizer Solution",
+"Namegeneric": "Albuterol HFA",
+"deaclass": "Class 6",
+"Medicationuse": "Asthma and Chronic Bronchitis",
+"Medicationclass": "Bronchodilator",
+"Strength": ".63mg, 1.25 mg",
+},
+
+{
+"Id": "4",
+"Namebrand": "Fosamax",
+"Namegeneric": "Alendronate",
+"deaclass": "Class 6",
+"Medicationuse": "Osteoporosis",
+"Medicationclass": "Bisphosphonate",
+"Strength": "5mg, 10mg, 35mg, 40mg",
+},
+
+{
+"Id": "5",
+"Namebrand": "Zyloprim",
+"Namegeneric": "Allopurinol",
+"deaclass": "Class 6",
+"Medicationuse": "Gout",
+"Medicationclass": "Xanthinine Oxidase Inhibitor",
+"Strength": "100mg, 300mg",
+},
+
+{
+"Id": "6",
+"Namebrand": "Zanax",
+"Namegeneric": "Alprazolam",
+"deaclass": "Class 4",
+"Medicationuse": "Anxiety",
+"Medicationclass": "Benzodiazepine",
+"Strength": ".25mg, .5mg, 1mg, 2mg",
+},
+
+{
+"Id": "7",
+"Namebrand": "Elavil",
+"Namegeneric": "Amitriptyline",
+"deaclass": "Class 6",
+"Medicationuse": "Depression",
+"Medicationclass": "Tricyclic Antidepressant",
+"Strength": "10mg, 25mg, 50 mg, 75mg, 100mg, 150mg",
+},
+
+{
+"Id": "8",
+"Namebrand": "Augmentin",
+"Namegeneric": "Amoxicillin and Clavulanate K+",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Penicillin",
+"Strength": "125mg, 250mg, 500mg, 875mg",
+},
+
+{
+"Id": "9",
+"Namebrand": "Amoxil: Trimox",
+"Namegeneric": "Amoxicillin",
+"deaclass": "Class 4",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Penicillin",
+"Strength": "250mg, 500mg",
+},
+
+{
+"Id": "10",
+"Namebrand": "Adderall XR",
+"Namegeneric": "Amphetamine and Dextroamphetamine XR",
+"deaclass": "Class 2",
+"Medicationuse": "Stimulant",
+"Medicationclass": "Attention Deficit Hyperactivity Disorder (ADHD) Control",
+"Strength": "5mg, 10mg, 15mg, 20mg, 30mg",
+},
+
+{
+"Id": "11",
+"Namebrand": "Tenormin",
+"Namegeneric": "Atenolol",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood pressure Treatment; Chest Pain Treatment",
+"Medicationclass": "Beta-Blocker",
+"Strength": "25mg, 50mg, 100mg",
+},
+
+{
+"Id": "12",
+"Namebrand": "Lipitor",
+"Namegeneric": "Atorvastatin",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "HMG-CoA Reductase Inhibitor",
+"Strength": "10mg, 20mg, 40mg, 80mg",
+},
+
+{
+"Id": "13",
+"Namebrand": "Zithromax; Z-Pak",
+"Namegeneric": "Azithromycin",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Macrolide",
+"Strength": "250 mg, 500mg, 600mg",
+},
+
+{
+"Id": "14",
+"Namebrand": "Lotrel",
+"Namegeneric": "Benazepril and Amlodipine",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure Treatment",
+"Medicationclass": "Combination Med; ACE Inhibitor; Calcium Channel Blocker",
+"Strength": "amlodipine 2.5 mg/benazepril 10 mg",
+},
+
+{
+"Id": "15",
+"Namebrand": "Soma",
+"Namegeneric": "Carisoprodol",
+"deaclass": "Class 6",
+"Medicationuse": "Muscle Spasm Treatment",
+"Medicationclass": "Muscle Relaxant",
+"Strength": "250mg, 350mg",
+},
+
+{
+"Id": "16",
+"Namebrand": "Coreg",
+"Namegeneric": "Carvedilol",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure/Heart Failure Treatment",
+"Medicationclass": "Beta-Blocker",
+"Strength": "3.125mg, 6.25mg, 12.5mg, 25mg",
+},
+
+{
+"Id": "17",
+"Namebrand": "Omnicef",
+"Namegeneric": "Cefdinir",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Cephalosporin",
+"Strength": "300mg",
+},
+
+{
+"Id": "18",
+"Namebrand": "Celebrex",
+"Namegeneric": "Celecoxib",
+"deaclass": "Class 6",
+"Medicationuse": "Pain and Inflammation",
+"Medicationclass": "Cox-2 Inhibitor",
+"Strength": "50mg, 100mg, 200mg, 400mg",
+},
+
+{
+"Id": "19",
+"Namebrand": "Keflex",
+"Namegeneric": "Cephalexin",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Cephalosporin",
+"Strength": "250mg, 500mg, 750mg",
+},
+
+{
+"Id": "20",
+"Namebrand": "Cipro",
+"Namegeneric": "Ciprofloxacin",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Quinolone",
+"Strength": "500mg, 1000mg",
+},
+
+{
+"Id": "21",
+"Namebrand": "Celexa",
+"Namegeneric": "Citalopram",
+"deaclass": "Class 6",
+"Medicationuse": "Depression or Anxiety Treatment",
+"Medicationclass": "Selective Serotonin Receptor Inhibitor",
+"Strength": "10mg, 20mg, 40mg",
+},
+
+{
+"Id": "22",
+"Namebrand": "Klonopin",
+"Namegeneric": "Clonazepam",
+"deaclass": "Class 4",
+"Medicationuse": "Anxiety",
+"Medicationclass": "Benzodiazepine",
+"Strength": ".125mg, .25mg, .5mg, 1mg, 2mg",
+},
+
+{
+"Id": "23",
+"Namebrand": "Catapres",
+"Namegeneric": "Clonidine HCI",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure Treatment",
+"Medicationclass": "Alpha 2 Agonist",
+"Strength": ".1mg, .2mg, .3mg",
+},
+
+{
+"Id": "24",
+"Namebrand": "Plavix",
+"Namegeneric": "Clopidogrel",
+"deaclass": "Class 6",
+"Medicationuse": "Blood Clot Prevention",
+"Medicationclass": "Antiplatelet Agent",
+"Strength": "75mg, 300mg",
+},
+
+{
+"Id": "25",
+"Namebrand": "Premarin",
+"Namegeneric": "Premarin (Conjugated Estrogens)",
+"deaclass": "Class 6",
+"Medicationuse": "Menopausal Symptom Treatment",
+"Medicationclass": "Estrogen Derivative",
+"Strength": ".3mg, .45mg, .625mg, .9mg, 1.25mg",
+},
+
+{
+"Id": "26",
+"Namebrand": "Flexeril",
+"Namegeneric": "Cyclobenzaprine",
+"deaclass": "Class 6",
+"Medicationuse": "Muscle Spasm Treatment",
+"Medicationclass": "Skeletal Muscle Relaxant",
+"Strength": "5mg, 7.5mg, 10mg",
+},
+
+{
+"Id": "27",
+"Namebrand": "Valium",
+"Namegeneric": "Diazepam",
+"deaclass": "Class 4",
+"Medicationuse": "Anxiety",
+"Medicationclass": "Benzodiazepine",
+"Strength": "2mg, 5mg, 10mg",
+},
+
+{
+"Id": "28",
+"Namebrand": "Voltaren",
+"Namegeneric": "Diclofenac Sodium",
+"deaclass": "Class 6",
+"Medicationuse": "Pain and Inflammation",
+"Medicationclass": "Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+"Strength": "75mg",
+},
+
+{
+"Id": "29",
+"Namebrand": "Yaz",
+"Namegeneric": "Yaz (Drosprienone and Ethinyl Estradiol)",
+"deaclass": "Class 6",
+"Medicationuse": "Birth Control",
+"Medicationclass": "Oral Contraceptive",
+"Strength": "3mg",
+},
+
+{
+"Id": "30",
+"Namebrand": "Cymbalta",
+"Namegeneric": "Duloxetine",
+"deaclass": "Class 6",
+"Medicationuse": "Depression; Diabetic Neuropathic Pain Treatment",
+"Medicationclass": "Seratonin/Norephinephrine Reuptake Inhibitor",
+"Strength": "20mg, 30mg, 60mg",
+},
+
+{
+"Id": "31",
+"Namebrand": "Vibramycin",
+"Namegeneric": "Doxycycline Hyclate",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Tetracycline",
+"Strength": "50mg, 75mg, 100mg, 150mg",
+},
+
+{
+"Id": "32",
+"Namebrand": "Vasotec",
+"Namegeneric": "Enalapril",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure; Heart Failure Treatment",
+"Medicationclass": "ACE-Inhibitor",
+"Strength": "2.5mg, 5mg, 10mg",
+},
+
+{
+"Id": "33",
+"Namebrand": "Lexapro",
+"Namegeneric": "Escitalopram",
+"deaclass": "Class 6",
+"Medicationuse": "Depression or Anxiety Treatment",
+"Medicationclass": "Selective Serotonin Receptor Inhibitor",
+"Strength": "5mg, 10mg, 20mg",
+},
+
+{
+"Id": "34",
+"Namebrand": "Nexium",
+"Namegeneric": "Esomeprazole",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Ulcers; GERD Treatment",
+"Medicationclass": "Proton Pump Inhibitor",
+"Strength": "2.5mg, 5mg, 10mg, 20mg, 40mg",
+},
+
+{
+"Id": "35",
+"Namebrand": "Zetia",
+"Namegeneric": "Ezetimibe",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "2-Azetidinone",
+"Strength": "10mg",
+},
+
+{
+"Id": "36",
+"Namebrand": "Tricor",
+"Namegeneric": "Fenofibrate",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "Cholesterol Lowering Agent",
+"Strength": "54mg, 160mg",
+},
+
+{
+"Id": "37",
+"Namebrand": "Allegra",
+"Namegeneric": "Fexofenadine",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Allergy Treatment/Prevention",
+"Medicationclass": "Antihistamine",
+"Strength": "30mg, 60mg, 180mg",
+},
+
+{
+"Id": "38",
+"Namebrand": "Diflucan",
+"Namegeneric": "Fluconozole",
+"deaclass": "Class 6",
+"Medicationuse": "Fungal Infection Treatment",
+"Medicationclass": "Antifungal",
+"Strength": "50mg, 100mg, 150mg, 200mg",
+},
+
+{
+"Id": "39",
+"Namebrand": "Prozac",
+"Namegeneric": "Fluoxetine HCI",
+"deaclass": "Class 6",
+"Medicationuse": "Depression or Anxiety Treatment",
+"Medicationclass": "Selective Serotonin Receptor Inhibitor",
+"Strength": "10mg, 20mg, 40mg, 60mg",
+},
+
+{
+"Id": "40",
+"Namebrand": "Advair",
+"Namegeneric": "Fluticasone and Salmeterol Inhaler",
+"deaclass": "Class 6",
+"Medicationuse": "Asthma Treatment/Prevention",
+"Medicationclass": "Combination Med; Oral Corticosteroid; Long Acting Beta2-agonist",
+"Strength": "100mcg, 200mcg, 500mcg",
+},
+
+{
+"Id": "41",
+"Namebrand": "Flonase",
+"Namegeneric": "Fluticasone Nasal Spray",
+"deaclass": "OTC",
+"Medicationuse": "Asthma and/or Allergy Treatment/Prevention",
+"Medicationclass": Nasal Corticosteroid",
+"Strength": "50mcg",
+},
+
+{
+"Id": "42",
+"Namebrand": "Folic Acid",
+"Namegeneric": "Folic Acid",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Anemia Treatment/Prevention",
+"Medicationclass": "Vitamin",
+"Strength": "1mg",
+},
+
+{
+"Id": "43",
+"Namebrand": "Lasix",
+"Namegeneric": "Furosemide",
+"deaclass": "Class 6",
+"Medicationuse": "Edema; Hypertension Treatment",
+"Medicationclass": "Loop Diuretic",
+"Strength": "20mg, 40mg, 80mg",
+},
+
+{
+"Id": "44",
+"Namebrand": "Neurontin",
+"Namegeneric": "Gabapentin",
+"deaclass": "Class 5",
+"Medicationuse": "Seizure Control; Neuralgia Treatment",
+"Medicationclass": "Anticonvulsant",
+"Strength": "100mg, 300mg, 400mg, 600mg, 800mg",
+},
+
+{
+"Id": "45",
+"Namebrand": "Amaryl",
+"Namegeneric": "Glimepiride",
+"deaclass": "Class 6",
+"Medicationuse": "Type 2 Diabetes Mellitus",
+"Medicationclass": "Anti-Diabetic",
+"Strength": "1mg, 2mg, 4mg",
+},
+
+{
+"Id": "46",
+"Namebrand": "Diabeta",
+"Namegeneric": "Glyburide",
+"deaclass": "Class 6",
+"Medicationuse": "Glycemic Control Improvement",
+"Medicationclass": "Sulfonylurea",
+"Strength": "1.25mg, 2.5mg, 5mg",
+},
+
+{
+"Id": "47",
+"Namebrand": "Glucotrol",
+"Namegeneric": "Glipizide",
+"deaclass": "Class 6",
+"Medicationuse": "Glycemic Control Improvement",
+"Medicationclass": "Sulfonylurea",
+"Strength": "5mg, 10mg",
+},
+
+{
+"Id": "48",
+"Namebrand": "Microzide",
+"Namegeneric": "Hydrochlorothiazide",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure Treatment",
+"Medicationclass": "Diuretic",
+"Strength": "12.5mg, 25mg, 50mg",
+},
+
+{
+"Id": "49",
+"Namebrand": "Lortab; Lorcet; Norco; Vicodin",
+"Namegeneric": "Hydrocodone and Acetaminophen",
+"deaclass": "Class 2",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Narcotic Analgesic",
+"Strength": "5mg/325mg, 7.5mg/325mg, 10mg/325mg",
+},
+
+{
+"Id": "50",
+"Namebrand": "Motrin",
+"Namegeneric": "Ibuprophen",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+"Strength": "200mg, 300mg, 400mg",
+},
+
+{
+"Id": "51",
+"Namebrand": "Lantus",
+"Namegeneric": "Lantus (Insulin Glargine)",
+"deaclass": "Class 6",
+"Medicationuse": "Glycemic Control Improvement",
+"Medicationclass": "Insulin",
+"Strength": "3mL, 10mL",
+},
+
+{
+"Id": "52",
+"Namebrand": "Imdur",
+"Namegeneric": "Isosorbide Mononitrate",
+"deaclass": "Class 6",
+"Medicationuse": "Chest Pain (Angina) Prevention",
+"Medicationclass": "Vasiodilator",
+"Strength": "30mg, 60mg, 120mg",
+},
+
+{
+"Id": "53",
+"Namebrand": "Prevacid",
+"Namegeneric": "Lansoprazole",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Ulcers; GERD Treatment",
+"Medicationclass": "Proton Pump Inhibitor",
+"Strength": "15mg, 30mg",
+},
+
+{
+"Id": "54",
+"Namebrand": "Levaquin",
+"Namegeneric": "Levofloxacin",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Quinolone",
+"Strength": "250mg, 500mg, 750mg",
+},
+
+{
+"Id": "55",
+"Namebrand": "Sythroid; Levoxl",
+"Namegeneric": "Levothyroxine Sodium",
+"deaclass": "Class 6",
+"Medicationuse": "Thyroid Hormone Deficiency Therapy",
+"Medicationclass": "Thyroid Hormone Replacement",
+"Strength": "25mcg, 50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg",
+},
+
+{
+"Id": "56",
+"Namebrand": "Sythroid",
+"Namegeneric": "Synthroid (Levothyroxine Sodium)",
+"deaclass": "Class 6",
+"Medicationuse": "Thyroid Hormone Deficiency Therapy",
+"Medicationclass": "Thyroid Hormone Replacement",
+"Strength": "50mcg, 75mcg, 88mcg, 100mcg, 112mcg, 125mcg, 137mcg, 150mcg, 175mcg, 200mcg, 300mcg",
+},
+
+{
+"Id": "57",
+"Namebrand": "Prinizide; Zestoretic",
+"Namegeneric": "Lisinopril and Hydrochlorothiazide",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure/Heart Failure Treatment",
+"Medicationclass": "Combination Med; ACE Inhibitor; Diuretic",
+"Strength": "10mg/12.5mg, 20mg/12.5mg",
+},
+
+{
+"Id": "58",
+"Namebrand": "Privinil; Zestril",
+"Namegeneric": "Lisinopril",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure/Heart Failure Treatment",
+"Medicationclass": "ACE-Inhibitor",
+"Strength": "5mg, 10mg, 20mg",
+},
+
+{
+"Id": "59",
+"Namebrand": "Ativan",
+"Namegeneric": "Lorazepam",
+"deaclass": "Class 4",
+"Medicationuse": "Anxiety",
+"Medicationclass": "Benzodiazepine",
+"Strength": ".5mg, 1mg, 2mg",
+},
+
+{
+"Id": "60",
+"Namebrand": "Cozaar",
+"Namegeneric": "Losartan",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure/Heart Failure Treatment",
+"Medicationclass": "Angiotensin Receptor Blocker",
+"Strength": "25mg, 50mg, 100mg",
+},
+
+{
+"Id": "61",
+"Namebrand": "Mevacor",
+"Namegeneric": "Lovastatin",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "HMG-CoA Reductase Inhibitor",
+"Strength": "20mg, 40mg",
+},
+
+{
+"Id": "62",
+"Namebrand": "Mobic",
+"Namegeneric": "Meloxicam",
+"deaclass": "Class 6",
+"Medicationuse": "Arthritis Treatment",
+"Medicationclass": "Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+"Strength": "7.5mg, 15mg",
+},
+
+{
+"Id": "63",
+"Namebrand": "Glucophage",
+"Namegeneric": "Metformin HCI",
+"deaclass": "Class 6",
+"Medicationuse": "Glycemic Control Improvement",
+"Medicationclass": "Biguanide",
+"Strength": "500mg, 850mg, 1000mg",
+},
+
+{
+"Id": "64",
+"Namebrand": "Medrol",
+"Namegeneric": "Methylprednisone",
+"deaclass": "Class 6",
+"Medicationuse": "Pain and Inflammation",
+"Medicationclass": "Corticosteroid",
+"Strength": "2mg, 4mg, 8mg, 16mg, 32mg",
+},
+
+{
+"Id": "65",
+"Namebrand": "Toprol",
+"Namegeneric": "Metroprolol Succinate XL",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure/Heart Failure Treatment; Irregular Heartbeat Treatment",
+"Medicationclass": "Beta-Blocker",
+"Strength": "25mg, 50mg, 100mg, 200mg",
+},
+
+{
+"Id": "66",
+"Namebrand": "Lopressor",
+"Namegeneric": "Metroprolol Tartrate",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure Treatment",
+"Medicationclass": "Beta-Blocker",
+"Strength": "25mg, 37.5mg, 50mg, 75mg, 100mg",
+},
+
+{
+"Id": "67",
+"Namebrand": "Nasonex",
+"Namegeneric": "Mometasone",
+"deaclass": "Class 6",
+"Medicationuse": "Allergy Treatment/Prevention",
+"Medicationclass": "Corticosteroid",
+"Strength": "50mcg",
+},
+
+{
+"Id": "68",
+"Namebrand": "Singulair",
+"Namegeneric": "Montelukast",
+"deaclass": "Class 6",
+"Medicationuse": "Asthma and/or Allergy Treatment/Prevention",
+"Medicationclass": "Leukrotriene Receptor Antagonist",
+"Strength": "4mg, 5mg, 10mg",
+},
+
+{
+"Id": "69",
+"Namebrand": "Naprosyn",
+"Namegeneric": "Naproxen",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Non-Steroidal Anti-Inflammatory Drug (NSAID)",
+"Strength": "250mg, 375mg, 500mg",
+},
+
+{
+"Id": "70",
+"Namebrand": "Prilosec",
+"Namegeneric": "Omeprazole",
+"deaclass": "Class 6; OTC",
+"Medicationuse": "Ulcers; GERD Treatment",
+"Medicationclass": "Proton Pump Inhibitor",
+"Strength": "10mg, 20mg, 40mg",
+},
+
+{
+"Id": "71",
+"Namebrand": "Percocet; Tylox; Roxicet; Endocet",
+"Namegeneric": "Oxycodone and Acetaminophen",
+"deaclass": "Class 2",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Narcotic Analgesic",
+"Strength": "2.5mg/325mg, 5mg/325mg, 7.5mg/325mg, 10mg/325mg",
+},
+
+{
+"Id": "72",
+"Namebrand": "Protonix",
+"Namegeneric": "Pantoprazole",
+"deaclass": "Class 6",
+"Medicationuse": "Ulcers; GERD Treatment",
+"Medicationclass": "Proton Pump Inhibitor",
+"Strength": "20mg, 40mg",
+},
+
+{
+"Id": "73",
+"Namebrand": "Paxil",
+"Namegeneric": "Paroxetine",
+"deaclass": "Class 6",
+"Medicationuse": "Depression and Anxiety",
+"Medicationclass": "Selective Serotonin Receptor Inhibitor",
+"Strength": "10mg, 20mg, 30mg, 40mg",
+},
+
+{
+"Id": "74",
+"Namebrand": "Actos",
+"Namegeneric": "Pioglitazone",
+"deaclass": "Class 6",
+"Medicationuse": "Glycemic Control Improvement",
+"Medicationclass": "Thiazolidinedione",
+"Strength": "15mg, 30mg, 45mg",
+},
+
+{
+"Id": "75",
+"Namebrand": "Klor-Con",
+"Namegeneric": "Potassium Chloride",
+"deaclass": "Class 6",
+"Medicationuse": "Potassium Deficiency Treatment",
+"Medicationclass": "Electrolyte Supplement",
+"Strength": "",
+},
+
+{
+"Id": "76",
+"Namebrand": "Pravachol",
+"Namegeneric": "Pravastatin",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "HMG-CoA Reductase Inhibitor",
+"Strength": "600mg, 750mg",
+},
+
+{
+"Id": "77",
+"Namebrand": "Deltasone",
+"Namegeneric": "Prednisone",
+"deaclass": "Class 6",
+"Medicationuse": "Accuse Allergy; Inflammation; Asthma",
+"Medicationclass": "Oral Corticosteroid",
+"Strength": "2.5mg, 5mg, 10mg, 20mg, 50mg",
+},
+
+{
+"Id": "78",
+"Namebrand": "Lyrica",
+"Namegeneric": "Pregabalin",
+"deaclass": "Class 5",
+"Medicationuse": "Diabetic Neuropathic Pain",
+"Medicationclass": "Gamma Aminobutyric Acid",
+"Strength": "25mg, 50mg, 75mg, 100mg, 150mg, 200mg, 225mg, 300mg",
+},
+
+{
+"Id": "79",
+"Namebrand": "Phenergan",
+"Namegeneric": "Promethazine",
+"deaclass": "Class 6",
+"Medicationuse": "Nausea Control",
+"Medicationclass": "Antiemetic",
+"Strength": "12.5mg, 25mg",
+},
+
+{
+"Id": "80",
+"Namebrand": "Seroquel",
+"Namegeneric": "Quetiapine",
+"deaclass": "Class 6",
+"Medicationuse": "Schizophrenia Treatment",
+"Medicationclass": "Antipsychotic",
+"Strength": "25mg, 50mg, 100mg, 200mg, 300mg, 400mg",
+},
+
+{
+"Id": "81",
+"Namebrand": "Zantac",
+"Namegeneric": "Ranitidine",
+"deaclass": "Class 6",
+"Medicationuse": "Ulcers; GERD Treatment",
+"Medicationclass": "H2-antagonist",
+"Strength": "75mg, 150mg, 300mg",
+},
+
+{
+"Id": "82",
+"Namebrand": "Crestor",
+"Namegeneric": "Rosuvastatin",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "HMG-CoA Reductase Inhibitor",
+"Strength": "5mg, 10mg, 20mg, 40mg",
+},
+
+{
+"Id": "83",
+"Namebrand": "Zoloft",
+"Namegeneric": "Sertraline HCI",
+"deaclass": "Class 6",
+"Medicationuse": "Depression and Anxiety",
+"Medicationclass": "Selective Serotonin Receptor Inhibitor",
+"Strength": "25mg, 50mg",
+},
+
+{
+"Id": "84",
+"Namebrand": "Viagra",
+"Namegeneric": "Viagra (Sildenafil HCI)",
+"deaclass": "Class 6",
+"Medicationuse": "Erectile Dysfunction Treatment",
+"Medicationclass": "Phophodiesterase-5 Inhibitor",
+"Strength": "25mg, 50mg, 100mg",
+},
+
+{
+"Id": "85",
+"Namebrand": "Vytorin",
+"Namegeneric": "Simvastatin and Ezetimibe",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "Combo Med; HMG-CoA Reductase Inhibitor and 2-azetidinone",
+"Strength": "10mg/10mg, 10mg/20mg, 10mg/40mg",
+},
+
+{
+"Id": "86",
+"Namebrand": "Zocor",
+"Namegeneric": "Simvastatin",
+"deaclass": "Class 6",
+"Medicationuse": "High Cholesterol Treatment",
+"Medicationclass": "HMG-CoA Reductase Inhibitor",
+"Strength": "5mg, 10mg, 20mg, 40mg, 80mg",
+},
+
+{
+"Id": "87",
+"Namebrand": "Aldactone",
+"Namegeneric": "Spironolactone",
+"deaclass": "Class 6",
+"Medicationuse": "Edema; Hypertension Treatment",
+"Medicationclass": "Diuretic",
+"Strength": "25mg, 50mg, 100mg",
+},
+
+{
+"Id": "88",
+"Namebrand": "Bactrim DS; Septra DS",
+"Namegeneric": "Sulfamethoxazole and Trimethoprim DS",
+"deaclass": "Class 6",
+"Medicationuse": "Antibiotic",
+"Medicationclass": "Combo Med; Sulfonamide and Trimethoprim",
+"Strength": "80mg, 160mg, 400mg, 800mg",
+},
+
+{
+"Id": "89",
+"Namebrand": "Flomax",
+"Namegeneric": "Tamsulosin",
+"deaclass": "Class 6",
+"Medicationuse": "Urinary/Prostate Disorder Treatment",
+"Medicationclass": "Alpha1-Blocker",
+"Strength": ".4mg, .8mg",
+},
+
+{
+"Id": "90",
+"Namebrand": "Restoril",
+"Namegeneric": "Temezepam",
+"deaclass": "Class 4",
+"Medicationuse": "Anxiety; Insomnia Treatment",
+"Medicationclass": "Benzodiazepine",
+"Strength": "7.5mg, 15mg, 22.5mg, 30mg",
+},
+
+{
+"Id": "91",
+"Namebrand": "Topamax",
+"Namegeneric": "Topiramate",
+"deaclass": "Class 6",
+"Medicationuse": "Seizure Control",
+"Medicationclass": "Anti-Convulsant",
+"Strength": "25mg, 50mg, 100mg, 200mg",
+},
+
+{
+"Id": "92",
+"Namebrand": "Ultram",
+"Namegeneric": "Tramadol",
+"deaclass": "Class 4",
+"Medicationuse": "Pain Treatment",
+"Medicationclass": "Non-Narcotic Analgesic",
+"Strength": "50mg, 100mg, 150mg, 200mg, 300mg",
+},
+
+{
+"Id": "93",
+"Namebrand": "Aristocort; Cinalog; Kenalog; Triderm",
+"Namegeneric": "Triamcinolone Ace Topical",
+"deaclass": "Class 6",
+"Medicationuse": "Skin Inflammation and Irritation",
+"Medicationclass": "Topical Corticosteroid",
+"Strength": "N/A",
+},
+
+{
+"Id": "94",
+"Namebrand": "Desyrel",
+"Namegeneric": "Trazodone HCI",
+"deaclass": "Class 6",
+"Medicationuse": "Depression Treatment",
+"Medicationclass": "Serotonin Reuptake Inhibitor",
+"Strength": "50mg, 100mg, 150mg, 300mg",
+},
+
+{
+"Id": "95",
+"Namebrand": "Dyazide; Maxzide",
+"Namegeneric": "Triamterene and Hydrochlorothiazide",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure Treatment",
+"Medicationclass": "Combo Med; Thiazide and Potassium Sparing Diuretic",
+"Strength": "75mg/50mg",
+},
+
+{
+"Id": "96",
+"Namebrand": "Valtrex",
+"Namegeneric": "Valaciclovir",
+"deaclass": "Class 6",
+"Medicationuse": "Viral Infection Treatment",
+"Medicationclass": "Antiviral",
+"Strength": "500mg",
+},
+
+{
+"Id": "97",
+"Namebrand": "Diovan",
+"Namegeneric": "Valsartan",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure; Heart Failure Treatment",
+"Medicationclass": "Angiotensin Receptor Blocker",
+"Strength": "40mg, 80mg, 160mg, 320mg",
+},
+
+{
+"Id": "98",
+"Namebrand": "Effexor XR",
+"Namegeneric": "Venlafaxine XR",
+"deaclass": "Class 6",
+"Medicationuse": "Depression or Anxiety Treatment",
+"Medicationclass": "Serotonin/Norepinephrine Reuptake Inhibitor",
+"Strength": "25mg, 37.5mg, 50mg, 75mg, 100mg",
+},
+
+{
+"Id": "99",
+"Namebrand": "Calan SR; Verelan PM",
+"Namegeneric": "Verapamil SR",
+"deaclass": "Class 6",
+"Medicationuse": "High Blood Pressure; Chest Pain; Irregular Heartbeat Treatment",
+"Medicationclass": "Calcium Channel Blocker",
+"Strength": "120mg, 180mg, 240mg",
+},
+
+{
+"Id": "100",
+"Namebrand": "Ambien",
+"Namegeneric": "Zolpidem",
+"deaclass": "Class 4",
+"Medicationuse": "Insomnia",
+"Medicationclass": "Hypnotic",
+"Strength": "5mg, 6.25mg, 10mg, 12.5mg",
+},
+
